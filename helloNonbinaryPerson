@@ -1,0 +1,13 @@
+/* just because some peeps don't fit into either M or F. This script allows for that possibility
+also scripted 15DEC2015 */
+
+print('Hi, welcome to the mad house. Please enter your name,)
+enterName=input()
+print('Please enter your gender')
+enterGender=input()
+if enterGender == 'male':
+      print('Pleased to meet you, Mr. '+str(enterName))
+    if enterGender == 'female':
+        print('Pleased to meet you Ms. '+str(enterName))
+      else:
+      print('Pleased to meet you non-binary person' +str(enterName))
