@@ -1,0 +1,22 @@
+/*Quite literally my first Python script. Now looking back at it, it seemed somewhat chunky.
+At least it compiled correctly, and asks for your name, and age, and responds to  you, sort of. 
+Scripted 15Dec2015 */
+
+print('hello world')
+print('What is your name?')
+myName=input()
+print('It is good to meet you,' + myName)
+print()
+print('The length of your name is:')
+print(len(myName))
+print()
+print('What is your age,' +myName + '?')
+myAge=input()
+print('You will be ' + str(int(myAge)+1) + ' next year.')
+print()
+print('bye world')
+print('I am ' + str(202) + ' years old')
+spam=input()
+spam=int(spam)
+
+
