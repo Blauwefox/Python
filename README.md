@@ -11,3 +11,7 @@ Added
 -helloWorld
 -catPassword
 -helloNonBinaryPerson
+
+21 March 2017 
+Started a more structured Python course on Udemy with Jose Portilla's "Complete Python Bootcamp"
+Uploaded notebooks are from his course with modification answering the questions in it.
